@@ -1,0 +1,2 @@
+# wordpress-dhivehi-theme
+testing
